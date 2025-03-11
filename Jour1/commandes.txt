@@ -1,0 +1,5 @@
+Créer le fichier et écrire la requête
+echo "SELECT * FROM etudiant WHERE age < 18;" > job8.sql
+
+Vérifier le contenu du fichier
+cat job8.sql
